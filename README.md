@@ -23,3 +23,25 @@ Das Labor und die Hausaufgaben in Woche 1 sind freiwillig. Alle die schon "Data 
 **HINWEIS: Abgabe per Moodle bis 12 Uhr mittags, Donnerstag in der Woche nach dem Labor**
 
 * [Aufgabe 1](https://colab.research.google.com/github/keuperj/DataMining_22/blob/main/Week_1/Assignment-01.ipynb) 
+
+## Woche 2
+
+### Vorlesung
+* [Data Collection](https://colab.research.google.com/github/keuperj/DataMining_22/blob/main/Week_2/Lecture_Data_Collection.ipynb)
+* [Data Storage](https://colab.research.google.com/github/keuperj/DataMining_22/blob/main/Week_2/Lecture_Data_Storage.ipynb)
+
+### Lab
+#### Pandas Intro
+* [Pandas Intro](https://colab.research.google.com/github/keuperj/DataMining_22/blob/main/Week_2/Lab_pandas_01_Intro.ipynb)
+* [Pandas Data Frames](https://colab.research.google.com/github/keuperj/DataMining_22/blob/main/Week_2/Lab_pandas_02_DataFrame.ipynb)
+* [Pandas IO](https://colab.research.google.com/github/keuperj/DataMining_22/blob/main/Week_2/Lab_pandas_03_IO.ipynb)
+* [Pandas Missing Data](https://colab.research.google.com/github/keuperj/DataMining_22/blob/main/Week_2/Lab_pandas_04_MissingData.ipynb)
+
+
+#### Scraping
+* [BeautifulSoup -> Pandas](https://colab.research.google.com/github/keuperj/DataMining_22/blob/main/Week_2/Lab_Scraping.ipynb)
+
+### Aufgaben
+* [Aufgabe 2](https://colab.research.google.com/github/keuperj/DataMining_22/blob/main/Week_2/Assingment_2.1.ipynb) -
+
+
