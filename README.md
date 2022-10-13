@@ -22,7 +22,7 @@ Das Labor und die Hausaufgaben in Woche 1 sind freiwillig. Alle die schon "Data 
 ### Aufgaben
 **HINWEIS: Abgabe per Moodle bis 12 Uhr mittags, Donnerstag in der Woche nach dem Labor**
 
-* [Aufgabe 1](https://colab.research.google.com/github/keuperj/DataMining_22/blob/main/Week_1/Assignment-01.ipynb) 
+* [Aufgabe 1](https://colab.research.google.com/github/keuperj/DataMining_22/blob/main/Week_1/Assignment-01.ipynb) -> [Solution](https://colab.research.google.com/github/keuperj/DataMining_22/blob/main/Week_1/Solution-1.ipynb)
 
 ## Woche 2
 
