@@ -67,3 +67,13 @@ Das Labor und die Hausaufgaben in Woche 1 sind freiwillig. Alle die schon "Data 
 
 ### Aufgabe
 * [Aufgabe 4.1](https://colab.research.google.com/github/keuperj/DataMining_22/blob/main/Week_4/Assignment_face_recognition.ipynb)
+
+### Vorlesung
+* [K-Means Clustering](https://colab.research.google.com/github/keuperj/DataMining_22/blob/main/Week_5/Lecture_K-Means_Demo.ipynb)
+* [Spectral Clustering](https://colab.research.google.com/github/keuperj/DataMining_22/blob/main/Week_5/Lecture_Spectral_Demo.ipynb)
+
+### Labor
+* [Clustering MNIST](https://colab.research.google.com/github/keuperj/DataMining_22/blob/main/Week_5/Lab-Clustering-MNIST.ipynb) 
+
+### Aufgabe
+* [Aufgabe 5.1](https://colab.research.google.com/github/keuperj/DataMining_22/blob/main/Week_5/Assignment_Clustering_I.ipynb)
