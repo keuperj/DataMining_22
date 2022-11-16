@@ -42,7 +42,7 @@ Das Labor und die Hausaufgaben in Woche 1 sind freiwillig. Alle die schon "Data 
 * [BeautifulSoup -> Pandas](https://colab.research.google.com/github/keuperj/DataMining_22/blob/main/Week_2/Lab_Scraping.ipynb)
 
 ### Aufgaben
-* [Aufgabe 2](https://colab.research.google.com/github/keuperj/DataMining_22/blob/main/Week_2/Assingment_2.1.ipynb) 
+* [Aufgabe 2](https://colab.research.google.com/github/keuperj/DataMining_22/blob/main/Week_2/Assingment_2.1.ipynb) -> [Solution]((https://colab.research.google.com/github/keuperj/DataMining_22/blob/main/Week_2/Solution_2.1.ipynb)
 
 ## Woche 3 
 ### Vorlesung
@@ -54,8 +54,8 @@ Das Labor und die Hausaufgaben in Woche 1 sind freiwillig. Alle die schon "Data 
  
 
 ### Aufgaben
-* [Aufgabe 3.1](https://colab.research.google.com/github/keuperj/DataMining_22/blob/main/Week_3/Assignment_3.1_Numpy.ipynb) 
-* [Aufgabe 3.2](https://colab.research.google.com/github/keuperj/DataMining_22/blob/main/Week_3/Assignment_3.2_Matplotlib.ipynb) 
+* [Aufgabe 3.1](https://colab.research.google.com/github/keuperj/DataMining_22/blob/main/Week_3/Assignment_3.1_Numpy.ipynb) -> [Solution](https://colab.research.google.com/github/keuperj/DataMining_22/blob/main/Week_3/Assignment_3.1_solution.ipynb)
+* [Aufgabe 3.2](https://colab.research.google.com/github/keuperj/DataMining_22/blob/main/Week_3/Assignment_3.2_Matplotlib.ipynb) -> [Solution](https://colab.research.google.com/github/keuperj/DataMining_21/blob/main/Week_3/Assignment_3.2_Solution.ipynb)
 
 ## Woche 4
 
@@ -66,7 +66,7 @@ Das Labor und die Hausaufgaben in Woche 1 sind freiwillig. Alle die schon "Data 
 * [Eigenfaces : Face Recognition](https://colab.research.google.com/github/keuperj/DataMining_22/blob/main/Week_4/Lab_face_recognition.ipynb) 
 
 ### Aufgabe
-* [Aufgabe 4.1](https://colab.research.google.com/github/keuperj/DataMining_22/blob/main/Week_4/Assignment_face_recognition.ipynb)
+* [Aufgabe 4.1](https://colab.research.google.com/github/keuperj/DataMining_22/blob/main/Week_4/Assignment_face_recognition.ipynb) -> [Lösung](https://colab.research.google.com/github/keuperj/DataMining_22/blob/main/Week_4/Assignment_face_recognition-solution.ipynb)
 
 ## Woche 5
 
@@ -79,3 +79,14 @@ Das Labor und die Hausaufgaben in Woche 1 sind freiwillig. Alle die schon "Data 
 
 ### Aufgabe
 * [Aufgabe 5.1](https://colab.research.google.com/github/keuperj/DataMining_22/blob/main/Week_5/Assignment_Clustering_I.ipynb)
+
+## Woche 6
+
+### Vorlesung
+* [Agglomarative Clustering](https://colab.research.google.com/github/keuperj/DataMining_22/blob/main/Week_6/Agg-Clustering-Demo.ipynb)
+* [DB-Scan Clustering](https://colab.research.google.com/github/keuperj/DataMining_22/blob/main/Week_6/DBScan-Demo.ipynb)
+* [Mean Shift Clustering](https://colab.research.google.com/github/keuperj/DataMining_22/blob/main/Week_6/Mean-Shift-Demo.ipynb)
+ 
+
+### Aufgabe
+*  [Aufgabe 6.1](https://colab.research.google.com/github/keuperj/DataMining_22/blob/main/Week_6/Assignment_6_Clustering.ipynb)
