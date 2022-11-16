@@ -42,7 +42,7 @@ Das Labor und die Hausaufgaben in Woche 1 sind freiwillig. Alle die schon "Data 
 * [BeautifulSoup -> Pandas](https://colab.research.google.com/github/keuperj/DataMining_22/blob/main/Week_2/Lab_Scraping.ipynb)
 
 ### Aufgaben
-* [Aufgabe 2](https://colab.research.google.com/github/keuperj/DataMining_22/blob/main/Week_2/Assingment_2.1.ipynb) -> [Solution]((https://colab.research.google.com/github/keuperj/DataMining_22/blob/main/Week_2/Solution_2.1.ipynb)
+* [Aufgabe 2](https://colab.research.google.com/github/keuperj/DataMining_22/blob/main/Week_2/Assingment_2.1.ipynb) -> [Solution](https://colab.research.google.com/github/keuperj/DataMining_22/blob/main/Week_2/Solution_2.1.ipynb)
 
 ## Woche 3 
 ### Vorlesung
