@@ -105,3 +105,17 @@ Das Labor und die Hausaufgaben in Woche 1 sind freiwillig. Alle die schon "Data 
 
 ### Aufgabe
 *  [Aufgabe 8.1](https://colab.research.google.com/github/keuperj/DataMining_22/blob/main/Week_8/Assignemnt_autoencoder-outlier.ipynb)
+
+## Woche 9
+**HINWEIS:**  GPU nicht vergessen -> in Colab: runtime->change runtime type->GPU 
+### Vorlesung
+* [FacialGAN GitHub+paper](https://github.com/cc-hpc-itwm/FacialGAN), [Video](https://www.youtube.com/watch?v=N4jRSNKPB0s)
+* [Collection of GAN architectures in KERAS](https://github.com/eriklindernoren/Keras-GAN)
+
+### Lab
+* [VAE example](https://colab.research.google.com/github/keuperj/DataMining_22/blob/main/Week_9/vae.ipynb)
+* [DCGAN example](https://colab.research.google.com/github/keuperj/DataMining_22/blob/main/Week_9/dcgan.ipynb)
+ 
+
+### Aufgabe
+*  [Aufgabe 9.1](https://colab.research.google.com/github/keuperj/DataMining_22/blob/main/Week_9/Assignment_9.ipynb) 
