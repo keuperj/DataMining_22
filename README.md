@@ -116,7 +116,8 @@ Das Labor und die Hausaufgaben in Woche 1 sind freiwillig. Alle die schon "Data 
 * [VAE example](https://colab.research.google.com/github/keuperj/DataMining_22/blob/main/Week_9/vae.ipynb)
 * [DCGAN example](https://colab.research.google.com/github/keuperj/DataMining_22/blob/main/Week_9/dcgan.ipynb)
 * [Diffusion Example](https://colab.research.google.com/github/altryne/sd-webui-colab/blob/main/Stable_Diffusion_WebUi_Altryne.ipynb)
- 
+
+[Daten](https://filr.hs-offenburg.de/filr/public-link/file-download/0dcf8b8584c4a6580184f1ec7629587d/4769/-855177143421694649/img_align_celeba.zip) für DCGAN: https://filr.hs-offenburg.de/filr/public-link/file-download/0dcf8b8584c4a6580184f1ec7629587d/4769/-855177143421694649/img_align_celeba.zip
 
 ### Aufgabe
 *  [Aufgabe 9.1](https://colab.research.google.com/github/keuperj/DataMining_22/blob/main/Week_9/Assignment_9.ipynb) 
