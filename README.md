@@ -115,6 +115,7 @@ Das Labor und die Hausaufgaben in Woche 1 sind freiwillig. Alle die schon "Data 
 ### Lab
 * [VAE example](https://colab.research.google.com/github/keuperj/DataMining_22/blob/main/Week_9/vae.ipynb)
 * [DCGAN example](https://colab.research.google.com/github/keuperj/DataMining_22/blob/main/Week_9/dcgan.ipynb)
+* [Diffusion Example](https://colab.research.google.com/github/altryne/sd-webui-colab/blob/main/Stable_Diffusion_WebUi_Altryne.ipynb)
  
 
 ### Aufgabe
